@@ -4,4 +4,7 @@
     <option name="sdkName" value="college-scorecard-analysis" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="college-scorecard-analysis" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
 </project>
